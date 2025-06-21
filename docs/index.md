@@ -2,4 +2,4 @@
 
 Personal resources for languages I like
 
-[[Guarani.md]]
+[Guarani](Guarani.md)
