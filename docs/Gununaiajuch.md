@@ -1,4 +1,7 @@
 # Günün a iajüch
+
+Günün a iajüch, also known as *Pampa*, *Tehuelche* or *Puelche* is a dormant language spoken in Southwest of Argentina (Orden, 2014). It was recorded by missionaries during the 1800s and the last known fluent speaker passed away in the 1960s (Viegas Barros, 2021).
+
 Some morphosyntactic paradigms in Günan a iajüch:
 
 
@@ -76,3 +79,5 @@ Some morphosyntactic paradigms in Günan a iajüch:
 
 # References
 Orden, M. E. (2017). _Descripción de la lengua Günün a Iajüch_ [Doctorado en Letras]. Universidad Nacional del Sur.
+Orden, M. E. (2014). Modo y modalidad en la lengua günün a iajüch. UniverSOS, 11, 153–163.
+Viegas-Barros, J. P. (2021). Una hipótesis sobre la diacronía del sistema vocálico de la lengua günün a yajüch. In M. E. Orden & M. Malvestitti (Eds), Voces habitadas. Recorridos lingüísticos en homenaje a Ana Fernández Garay (pp. 550–600). Editorial Universitaria de La Pampa.
